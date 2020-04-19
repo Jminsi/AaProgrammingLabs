@@ -1,0 +1,2 @@
+rootProject.name='lab3-2_External_Activities'
+include ':app'
